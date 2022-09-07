@@ -1,4 +1,4 @@
-nclude "shell.h"
+#include "shell.h"
 
 
 
@@ -244,4 +244,4 @@ int proc_file_commands(char *file_path, int *exe_ret)
 
 	return (ret);
 
-//}
+}

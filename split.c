@@ -1,4 +1,4 @@
-nclude "shell.h"
+#include "shell.h"
 
 
 
@@ -204,4 +204,4 @@ char **_strtok(char *line, char *delim)
 
 	return (ptr);
 
-//}
+}
