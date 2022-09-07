@@ -274,4 +274,4 @@ void help_history(void);
 
 int proc_file_commands(char *file_path, int *exe_ret);
 
-//#endif /* _SHELL_H_ */
+#endif /* _SHELL_H_ */
