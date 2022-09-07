@@ -1,4 +1,4 @@
-nclude "shell.h"
+#include "shell.h"
 
 
 
@@ -306,4 +306,4 @@ void variable_replacement(char **line, int *exe_ret)
 
 	}
 
-//}
+}
